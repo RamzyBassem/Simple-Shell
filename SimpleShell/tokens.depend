@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540593862 source:/home/ramzy/Desktop/tokens/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/wait.h>
+
